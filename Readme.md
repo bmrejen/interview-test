@@ -1,4 +1,4 @@
-# Phoceis Technical Test
+# Technical Test
 
 #### Objective
 Develop a mobile web page displaying a list of stores, their information and allowing to edit the list.
