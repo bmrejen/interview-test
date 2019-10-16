@@ -8,6 +8,6 @@
     "jquery": "^3.3.1"
   },
   "devDependencies": {
-    "popper.js": "^1.14.7"
+    "popper.js": "^1.16.0"
   }
 }
